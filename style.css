@@ -260,4 +260,7 @@ form button:hover{
         margin-top: 20px;
         width: 80%;
     }
+    .recipeDetails{
+        width: 100%;
+    }
 }
